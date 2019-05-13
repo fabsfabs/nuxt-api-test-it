@@ -9,7 +9,7 @@
       "urlToImage": "https://cdn.iwillteachyoutoberich.com/wp-content/uploads/ACP_email.png",
       "publishedAt": "2019-04-26T16:52:10Z",
       "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet vel doloremque dolorem, laborum, modi fuga, rem ab accusantium delectus enim esse ullam ex. Error, sunt! Maxime cum laudantium at dolore.",
-      "index": "nofollow"
+      "noindex": "follow"
     },
     {
       "id": "2",
