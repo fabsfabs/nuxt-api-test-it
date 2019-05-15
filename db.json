@@ -9,7 +9,8 @@
       "urlToImage": "https://cdn.iwillteachyoutoberich.com/wp-content/uploads/ACP_email.png",
       "publishedAt": "2019-04-26T16:52:10Z",
       "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet vel doloremque dolorem, laborum, modi fuga, rem ab accusantium delectus enim esse ullam ex. Error, sunt! Maxime cum laudantium at dolore.",
-      "index": "follow"
+      "follow": "follow",
+      "index": "noindex"
     },
     {
       "id": "2",
@@ -20,7 +21,8 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/04/A-New-Era-for-Enterprise-IT.png?w=641",
       "publishedAt": "2019-04-26T16:49:43Z",
       "content": "More posts by this contributor\r\nAmidst the newly minted scooter unicorns, ebbs and flows of bitcoin investments and wagers on the price of Uber’s IPO, another trend has shaken up the tech industry: the explosion of enterprise software successes.\r\nBessemer not… [+5694 chars]",
-      "index": "follow"
+      "follow": "follow",
+      "index": "index"      
     },
     {
       "id": "3",
@@ -31,7 +33,8 @@
       "urlToImage": "https://www.ccn.com/wp-content/uploads/2019/04/Police-cop-stock.jpg",
       "publishedAt": "2019-04-26T16:49:21Z",
       "content": "By CCN.com: A notice on the official website for the City of Berkeley police department warns residents of phone scams involving Bitcoin. Calling them cyber-enabled fraud crime, the post talks about a woman who scammers attempted to victimize via telephone ev… [+2419 chars]",
-      "index": "follow"
+      "follow": "follow",
+      "index": "index"      
     },
     {
       "id": "4",
@@ -42,7 +45,8 @@
       "urlToImage": "https://www.washingtonpost.com/resizer/YOBhfhVfPc-AzvMoU4BlYTXZppg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L7VHF3TIGMI6TCMFJTZQCR55ZI.jpg",
       "publishedAt": "2019-04-26T14:52:25+00:00",
       "content": "The Pentagon is preparing to approve a loosening of rules that bar troops from interacting with migrants entering the United States, expanding the militarys involvement in President Trumps operation along the southern border.\r\nSenior Defense Department offici… [+3051 chars]",
-      "index": "follow"
+      "follow": "follow",
+      "index": "index"      
     }    
   ],
   "about": {
@@ -50,6 +54,7 @@
     "description": "Acting defense secretary Patrick Shanahan is expected to approve",
     "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit pariatur facere eligendi qui repellendus suscipit, non culpa quidem est ex eveniet eum doloribus! Eius consequatur, incidunt eaque officia magni iure! ",
     "slug": "about-us",
-    "index": "follow"
+      "follow": "follow",
+      "index": "index"      
   }
 }
